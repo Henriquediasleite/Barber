@@ -98,7 +98,7 @@ i {
   background-size: cover;
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("../imagens/bg.svg");
+  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("./imagens/bg.svg");
   background-position: 50% 0;
   background-repeat: no-repeat;
   opacity: 0.9;
